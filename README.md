@@ -50,6 +50,4 @@ npm run dev
 
 Then open the frontend URL shown in the terminal (usually `http://localhost:5173`).
 
-## Team
 
-Built for Design Thinking & Product Innovation — a team of 4, covering ML, Blockchain, Backend, and Frontend.
