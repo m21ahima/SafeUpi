@@ -1,0 +1,19 @@
+{
+  "name": "safeupi-blockchain",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Truffle project for SafeUPI's escrow smart contract, deployed to Ganache",
+  "scripts": {
+    "compile": "truffle compile",
+    "migrate": "truffle migrate",
+    "migrate:reset": "truffle migrate --reset",
+    "console": "truffle console"
+  },
+  "devDependencies": {
+    "hardhat": "^3.16.0",
+    "truffle": "^5.11.5"
+  },
+  "dependencies": {
+    "solc": "^0.8.19"
+  }
+}
